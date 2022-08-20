@@ -1,5 +1,7 @@
-## Oiii! Eu sou o Mateus Augusto
+<h1 align="center">Oiii! Eu sou o Mateus Augusto</h1>
+
 - 👨🏻‍💻 Estudante de programação
+
  <div>
   <a href="https://github.com/Mateus-AAC">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mateus-AAC&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
